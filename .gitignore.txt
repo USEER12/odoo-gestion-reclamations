@@ -1,0 +1,14 @@
+# Odoo
+*.pyc
+__pycache__/
+*.log
+
+# Docker volumes
+odoo-db-data/
+odoo-web-data/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
